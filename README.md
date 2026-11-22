@@ -1,6 +1,6 @@
 # ManhwaTracker
 An extension for tracking manhwa chapters, with cloud for seamless device shifts.
-
+https://chromewebstore.google.com/detail/eljecnebenikaboafhkoeiaefjadbknl?utm_source=item-share-cb
 
 
 
